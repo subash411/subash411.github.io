@@ -17,3 +17,29 @@ body{
     background colcor: rbga(0,0,0,0.1)
 
   }
+
+body {
+  background-color : gray;
+  margin : 10% 20%;
+  
+  
+}
+
+h1{
+  color : white;
+  font-family: Arial, helvatika, sans-seriff;
+  
+  
+}
+
+h3{
+  text-transform: uppercase;
+  border-top: 1px solid #dddd;
+    border-bottom: 1px solid #dddd;
+  
+}
+h4{
+  textitransfor: uppercase;
+  border-top: 1px solid red;
+    border-bottom: 1px solid red;
+}
